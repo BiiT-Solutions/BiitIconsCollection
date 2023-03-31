@@ -5,7 +5,7 @@
   "sideEffects": false,
   "scripts": {
     "clean": "npx rimraf dist",
-    "dev": "npm run transform-icons && vite",
+    "dev": "npm run clean && npm run transform-icons && vite",
     "build": "npm run clean && npm run build:lib && vite build && npm run copy-library-assets",
     "build:lib": "npm run transform-icons",
     "preview": "npm run build && vite preview",
