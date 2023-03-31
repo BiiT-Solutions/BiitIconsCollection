@@ -1,0 +1,72 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: left;
+    width: 70%;
+    border-bottom: rgba(0, 0, 0, 0.6) 1px solid;
+}
+
+input {
+    background: whitesmoke;
+    font-style: italic;
+    font-size: 20px;
+    padding-left: 15px;
+    margin-left: 20px;
+    height: 50px;
+    width: 250px;
+    border-radius: 25px;
+}
+
+.icon-list {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 70%;
+    margin-top: 50px;
+}
+
+.icon-card {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #fdfdfd;
+    min-height: 250px;
+    min-width: 250px;
+    margin: 20px;
+    box-shadow: 0 2px 3px 0 #264653;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.icon-card svg {
+    height: 50px;
+    width: 50px;
+    margin-bottom: 10px;
+}
+.logo-space {
+  display: flex;
+}
+
+.biit_logo svg {
+  height: 100px;
+  width: 100px;
+}
+
+.biit_icon {
+  margin-right: 10px;
+}
+.biit_icon svg {
+  height: 100px;
+  width: 50px;
+}

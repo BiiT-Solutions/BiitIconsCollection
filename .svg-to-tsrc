@@ -1,0 +1,15 @@
+{
+    "conversionType": "files",
+    "srcFiles": [
+      "./icons/**/*.svg"
+    ],
+    "outputDirectory": "./dist/icons",
+    "interfaceName": "BiitIcons",
+    "typeName": "biitIcon",
+    "prefix": "biitIcon",
+    "generateType": true,
+    "exportCompleteIconSet": true,
+    "optimizeForLazyLoading": true,
+    "modelFileName": "biit-icon.model",
+    "compileSources": true
+}
