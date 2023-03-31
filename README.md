@@ -1,27 +1,44 @@
-# BiitUiTheme
+# Biit Icons
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+This project helps to integrate BiiT icons into your projects.
 
-## Development server
+## Add or remove icons
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+You can use ./icons directory to add or remove SVG files.
+As well, you can group them on different folders.
 
-## Code scaffolding
+Any SVG file under icons directory it will be automatically added.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+``` NOTE: Icon will be automatically centered. Check if svg canvas is fit to the icon```
+
+
+## Test your icons
+
+To check how icons are going to be shown. Run the next command:
+
+`npm run dev`
+
+All icons will be processed and a web server will start on the next address: http://localhost:5173
+
+You will se a landing page containing all the icons processed. A search box is available on the page to find icons if needed.
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Use `npm run build` to compile the project. ./dist directory will be created.
 
-## Running unit tests
+## Publishing
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+To publish the dist folder run `npm publish ./dist`
 
-## Running end-to-end tests
+A script facility has been added to make publishing easy. Whether running `npm run publish`. It automatically will compile the project and publish dist folder.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Dependencies:
 
-## Further help
+`vito:` It's a web server to show the landing page. Configuration is located on ./vite.config.js
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+`svg-to-ts:` Process SVG files and creates TypeScript files to be used on Angular projects. Configuration file is located on: ./.svg-to-tsrc
+
+## Further documentation
+[SVG-TO-TS project](https://github.com/kreuzerk/svg-to-ts)
+
+[How to build your own tree shakable SVG icons library in less than 30 minutes!](https://kevinkreuzer.medium.com/how-to-build-your-own-tree-shakable-svg-icons-library-in-less-than-30-minutes-9f7a4a324d29)
