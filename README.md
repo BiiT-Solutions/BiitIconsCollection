@@ -30,7 +30,7 @@ Use `npm run build` to compile the project. ./dist directory will be created.
 
 To publish the dist folder run `npm publish ./dist`
 
-A script facility has been added to make publishing easy. Whether running `npm run publish`. It automatically will compile the project and publish dist folder.
+A script facility has been added to make publishing easy. Whether running `npm run auto-publish`. It automatically will compile the project and publish dist folder.
 
 ## Dependencies:
 
