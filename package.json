@@ -1,6 +1,7 @@
 {
   "name": "biit-icons-collection",
   "version": "1.0.6",
+  "author": "BiiT Sourcing Solutions",
   "type": "module",
   "sideEffects": false,
   "scripts": {
