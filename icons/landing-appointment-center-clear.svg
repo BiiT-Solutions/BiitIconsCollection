@@ -47,7 +47,7 @@
      id="path14" />
   <g
      id="g864"
-     transform="matrix(0.25784221,0,0,0.25784221,111.21675,93.41921)"
+     transform="matrix(0.24973523,0.06414764,-0.06414764,0.24973523,126.34262,85.209983)"
      style="fill:#262626;fill-opacity:1">
     <g
        id="g862"
@@ -72,19 +72,22 @@
   <circle
      style="fill:#262626;fill-opacity:1;stroke:#262626;stroke-width:0"
      id="path2308"
-     cx="121.97828"
-     cy="127.76218"
-     r="2.7886653" />
+     cx="154.33083"
+     cy="85.441483"
+     r="2.7886653"
+     transform="rotate(14.40571)" />
   <circle
      style="fill:#d8d8d8;fill-opacity:1;stroke:#262626;stroke-width:1.9;stroke-dasharray:none;stroke-opacity:1"
      id="path2310"
-     cx="117.05827"
-     cy="118.01591"
-     r="3.3050847" />
+     cx="149.41081"
+     cy="75.695213"
+     r="3.3050847"
+     transform="rotate(14.40571)" />
   <circle
      style="fill:#262626;fill-opacity:1;stroke:#262626;stroke-width:0"
      id="path2312"
-     cx="127.21771"
-     cy="117.90307"
-     r="2.1689618" />
+     cx="159.57025"
+     cy="75.582375"
+     r="2.1689618"
+     transform="rotate(14.40571)" />
 </svg>
