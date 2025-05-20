@@ -2,6 +2,12 @@
 
 This project helps to integrate BiiT icons into your projects.
 
+Dependencies:
+
+```
+ npm install svg-to-ts
+``` 
+
 ## Add or remove icons
 
 You can use ./icons directory to add or remove SVG files.
