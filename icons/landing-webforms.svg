@@ -1,336 +1,106 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   viewBox="0 0 220 195"
-   fill="none"
-   version="1.1"
-   id="svg41"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <path
-     fill-rule="evenodd"
-     clip-rule="evenodd"
-     d="m 76.8525,88.7444 7.6134,-0.0147 0.0385,-19.864 -7.6134,0.0148 z"
-     fill="#262626"
-     id="path2"
-     clip-path="url(#clipPath1280)" />
-  <path
-     fill-rule="evenodd"
-     clip-rule="evenodd"
-     d="m 63.2529,88.7366 7.6134,-0.0147 0.0385,-19.864 -7.6134,0.0147 z"
-     fill="#262626"
-     id="path4"
-     clip-path="url(#clipPath1274)" />
-  <path
-     fill-rule="evenodd"
-     clip-rule="evenodd"
-     d="m 83.7984,75.7878 0.0147,-7.6133 -19.8639,0.0384 -0.0148,7.6134 z"
-     fill="#262626"
-     id="path6"
-     clip-path="url(#clipPath1268)" />
-  <path
-     fill-rule="evenodd"
-     clip-rule="evenodd"
-     d="m 83.8082,89.3894 0.0147,-7.6134 -19.864,0.0385 -0.0147,7.6134 z"
-     fill="#262626"
-     id="path8"
-     clip-path="url(#clipPath1262)" />
-  <path
-     fill-rule="evenodd"
-     clip-rule="evenodd"
-     d="m 76.8701,124.057 7.6134,-0.015 0.0385,-19.864 -7.6134,0.015 z"
-     fill="#262626"
-     id="path10"
-     clip-path="url(#clipPath1256)" />
-  <path
-     fill-rule="evenodd"
-     clip-rule="evenodd"
-     d="m 63.2354,124.084 7.6133,-0.014 0.0385,-19.864 -7.6134,0.014 z"
-     fill="#262626"
-     id="path12"
-     clip-path="url(#clipPath1250)" />
-  <path
-     fill-rule="evenodd"
-     clip-rule="evenodd"
-     d="m 83.816,111.1 0.0147,-7.613 -19.864,0.038 -0.0147,7.614 z"
-     fill="#262626"
-     id="path14"
-     clip-path="url(#clipPath1244)" />
-  <path
-     fill-rule="evenodd"
-     clip-rule="evenodd"
-     d="m 83.7906,124.737 0.0147,-7.613 -19.8639,0.038 -0.0148,7.614 z"
-     fill="#262626"
-     id="path16"
-     clip-path="url(#clipPath1238)" />
-  <path
-     fill-rule="evenodd"
-     clip-rule="evenodd"
-     d="m 76.8525,159.405 7.6134,-0.015 0.0385,-19.864 -7.6134,0.015 z"
-     fill="#262626"
-     id="path18"
-     clip-path="url(#clipPath1232)" />
-  <path
-     fill-rule="evenodd"
-     clip-rule="evenodd"
-     d="m 63.2529,159.397 7.6134,-0.015 0.0385,-19.864 -7.6134,0.015 z"
-     fill="#262626"
-     id="path20"
-     clip-path="url(#clipPath1226)" />
-  <path
-     fill-rule="evenodd"
-     clip-rule="evenodd"
-     d="m 83.7984,146.448 0.0147,-7.613 -19.8639,0.038 -0.0148,7.613 z"
-     fill="#262626"
-     id="path22"
-     clip-path="url(#clipPath1220)" />
-  <path
-     fill-rule="evenodd"
-     clip-rule="evenodd"
-     d="m 83.8082,160.05 0.0147,-7.614 -19.864,0.039 -0.0147,7.613 z"
-     fill="#262626"
-     id="path24"
-     clip-path="url(#clipPath1214)" />
-  <path
-     fill-rule="evenodd"
-     clip-rule="evenodd"
-     d="M 183,50.9735 H 40.7611 L 37,42 h 142.239 z"
-     fill="#f20d5e"
-     id="path26"
-     clip-path="url(#clipPath1208)" />
-  <path
-     id="path1588"
-     clip-path="url(#clipPath1202)"
-     style="fill:#f20d5e;fill-opacity:1"
-     d="M 94.150391 74.068359 L 97.912109 83.091797 L 142.33008 83.091797 L 152.76172 74.068359 L 94.150391 74.068359 z M 94.150391 108.19727 L 97.912109 117.17188 L 108.26953 117.17188 L 112.60156 108.81055 L 113.31055 108.19727 L 94.150391 108.19727 z M 160.625 108.19727 L 150.25 117.17188 L 173.37891 117.17188 L 169.61719 108.19727 L 160.625 108.19727 z M 94.150391 144.28711 L 97.912109 153.26172 L 173.37891 153.26172 L 169.61719 144.28711 L 94.365234 144.28711 L 94.193359 144.3418 L 94.222656 144.28711 L 94.150391 144.28711 z " />
-  <defs
-     id="defs39">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1190">
-      <g
-         id="g1194">
-        <rect
-           width="146"
-           height="122"
-           fill="#ffffff"
-           id="rect1192"
-           x="37"
-           y="42" />
-      </g>
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1196">
-      <g
-         id="g1200">
-        <rect
-           width="146"
-           height="122"
-           fill="#ffffff"
-           id="rect1198"
-           x="37"
-           y="42" />
-      </g>
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1202">
-      <g
-         id="g1206">
-        <rect
-           width="146"
-           height="122"
-           fill="#ffffff"
-           id="rect1204"
-           x="37"
-           y="42" />
-      </g>
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1208">
-      <g
-         id="g1212">
-        <rect
-           width="146"
-           height="122"
-           fill="#ffffff"
-           id="rect1210"
-           x="37"
-           y="42" />
-      </g>
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1214">
-      <g
-         id="g1218">
-        <rect
-           width="146"
-           height="122"
-           fill="#ffffff"
-           id="rect1216"
-           x="37"
-           y="42" />
-      </g>
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1220">
-      <g
-         id="g1224">
-        <rect
-           width="146"
-           height="122"
-           fill="#ffffff"
-           id="rect1222"
-           x="37"
-           y="42" />
-      </g>
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1226">
-      <g
-         id="g1230">
-        <rect
-           width="146"
-           height="122"
-           fill="#ffffff"
-           id="rect1228"
-           x="37"
-           y="42" />
-      </g>
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1232">
-      <g
-         id="g1236">
-        <rect
-           width="146"
-           height="122"
-           fill="#ffffff"
-           id="rect1234"
-           x="37"
-           y="42" />
-      </g>
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1238">
-      <g
-         id="g1242">
-        <rect
-           width="146"
-           height="122"
-           fill="#ffffff"
-           id="rect1240"
-           x="37"
-           y="42" />
-      </g>
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1244">
-      <g
-         id="g1248">
-        <rect
-           width="146"
-           height="122"
-           fill="#ffffff"
-           id="rect1246"
-           x="37"
-           y="42" />
-      </g>
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1250">
-      <g
-         id="g1254">
-        <rect
-           width="146"
-           height="122"
-           fill="#ffffff"
-           id="rect1252"
-           x="37"
-           y="42" />
-      </g>
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1256">
-      <g
-         id="g1260">
-        <rect
-           width="146"
-           height="122"
-           fill="#ffffff"
-           id="rect1258"
-           x="37"
-           y="42" />
-      </g>
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1262">
-      <g
-         id="g1266">
-        <rect
-           width="146"
-           height="122"
-           fill="#ffffff"
-           id="rect1264"
-           x="37"
-           y="42" />
-      </g>
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1268">
-      <g
-         id="g1272">
-        <rect
-           width="146"
-           height="122"
-           fill="#ffffff"
-           id="rect1270"
-           x="37"
-           y="42" />
-      </g>
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1274">
-      <g
-         id="g1278">
-        <rect
-           width="146"
-           height="122"
-           fill="#ffffff"
-           id="rect1276"
-           x="37"
-           y="42" />
-      </g>
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1280">
-      <g
-         id="g1284">
-        <rect
-           width="146"
-           height="122"
-           fill="#ffffff"
-           id="rect1282"
-           x="37"
-           y="42" />
-      </g>
-    </clipPath>
-  </defs>
-  <path
-     id="rect324-0"
-     style="fill:#262626;fill-opacity:1;stroke-width:1.00157;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
-     d="m 120.4123,111.53251 46.84506,-40.595592 c 1.63618,0.641751 10.72262,10.986412 10.91763,12.598267 l -46.84505,40.595595 -21.95001,7.99203 z" />
+<svg   viewBox="0 0 220 195"   fill="none"   version="1.1"   id="svg41"   xmlns="http://www.w3.org/2000/svg"   xmlns:svg="http://www.w3.org/2000/svg">
+  <g
+     id="g8811">
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 76.8525,88.7444 7.6134,-0.0147 0.0385,-19.864 -7.6134,0.0148 z"
+       fill="#262626"
+       id="path2"
+       clip-path="url(#clipPath1280)" />
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 63.2529,88.7366 7.6134,-0.0147 0.0385,-19.864 -7.6134,0.0147 z"
+       fill="#262626"
+       id="path4"
+       clip-path="url(#clipPath1274)" />
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 83.7984,75.7878 0.0147,-7.6133 -19.8639,0.0384 -0.0148,7.6134 z"
+       fill="#262626"
+       id="path6"
+       clip-path="url(#clipPath1268)" />
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 83.8082,89.3894 0.0147,-7.6134 -19.864,0.0385 -0.0147,7.6134 z"
+       fill="#262626"
+       id="path8"
+       clip-path="url(#clipPath1262)" />
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 76.8701,124.057 7.6134,-0.015 0.0385,-19.864 -7.6134,0.015 z"
+       fill="#262626"
+       id="path10"
+       clip-path="url(#clipPath1256)" />
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 63.2354,124.084 7.6133,-0.014 0.0385,-19.864 -7.6134,0.014 z"
+       fill="#262626"
+       id="path12"
+       clip-path="url(#clipPath1250)" />
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 83.816,111.1 0.0147,-7.613 -19.864,0.038 -0.0147,7.614 z"
+       fill="#262626"
+       id="path14"
+       clip-path="url(#clipPath1244)" />
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 83.7906,124.737 0.0147,-7.613 -19.8639,0.038 -0.0148,7.614 z"
+       fill="#262626"
+       id="path16"
+       clip-path="url(#clipPath1238)" />
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 76.8525,159.405 7.6134,-0.015 0.0385,-19.864 -7.6134,0.015 z"
+       fill="#262626"
+       id="path18"
+       clip-path="url(#clipPath1232)" />
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 63.2529,159.397 7.6134,-0.015 0.0385,-19.864 -7.6134,0.015 z"
+       fill="#262626"
+       id="path20"
+       clip-path="url(#clipPath1226)" />
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 83.7984,146.448 0.0147,-7.613 -19.8639,0.038 -0.0148,7.613 z"
+       fill="#262626"
+       id="path22"
+       clip-path="url(#clipPath1220)" />
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 83.8082,160.05 0.0147,-7.614 -19.864,0.039 -0.0147,7.613 z"
+       fill="#262626"
+       id="path24"
+       clip-path="url(#clipPath1214)" />
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="M 183,50.9735 H 40.7611 L 37,42 h 142.239 z"
+       fill="#f20d5e"
+       id="path26"
+       clip-path="url(#clipPath1208)" />
+    <path
+       id="path1588"
+       clip-path="url(#clipPath1202)"
+       style="fill:#f20d5e;fill-opacity:1"
+       d="M 94.150391 74.068359 L 97.912109 83.091797 L 142.33008 83.091797 L 152.76172 74.068359 L 94.150391 74.068359 z M 94.150391 108.19727 L 97.912109 117.17188 L 108.26953 117.17188 L 112.60156 108.81055 L 113.31055 108.19727 L 94.150391 108.19727 z M 160.625 108.19727 L 150.25 117.17188 L 173.37891 117.17188 L 169.61719 108.19727 L 160.625 108.19727 z M 94.150391 144.28711 L 97.912109 153.26172 L 173.37891 153.26172 L 169.61719 144.28711 L 94.365234 144.28711 L 94.193359 144.3418 L 94.222656 144.28711 L 94.150391 144.28711 z " />
+    <path
+       id="rect324-0"
+       style="fill:#262626;fill-opacity:1;stroke-width:1.00157;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       d="m 120.4123,111.53251 46.84506,-40.595592 c 1.63618,0.641751 10.72262,10.986412 10.91763,12.598267 l -46.84505,40.595595 -21.95001,7.99203 z" />
+  </g>
 </svg>
