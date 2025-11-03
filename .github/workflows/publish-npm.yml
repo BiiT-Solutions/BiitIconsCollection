@@ -19,9 +19,6 @@ jobs:
           node-version: '16.x'
           registry-url: 'https://registry.npmjs.org'
 
-      - name: Install dependencies
-        run: npm install
-
       - name: Set login
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
