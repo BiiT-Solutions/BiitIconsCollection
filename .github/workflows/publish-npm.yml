@@ -18,14 +18,14 @@ jobs:
         with:
           node-version: '16.x'
           registry-url: 'https://registry.npmjs.org'
+
       - name: Install dependencies
         run: npm install
 
       - name: Set login
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
-        run: |
-          echo "//registry.npmjs.org/:_authToken=\${NODE_AUTH_TOKEN}" > .npmrc
+        run: echo "//registry.npmjs.org/:_authToken=\${NODE_AUTH_TOKEN}" > .npmrc
 
       - name: Publishing
-      - run: npm run auto-publish
+        run: npm run auto-publish
