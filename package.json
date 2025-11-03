@@ -1,5 +1,5 @@
 {
-  "name": "biit-icons-collection",
+  "name": "@biit-solutions/biit-icons-collection",
   "version": "1.0.52",
   "author": "BiiT Sourcing Solutions",
   "type": "module",
@@ -13,7 +13,7 @@
     "preview": "npm run build && vite preview",
     "transform-icons": "svg-to-ts-files",
     "copy-library-assets": "cpx package.json dist/icons && cpx README.md dist/icons",
-    "auto-publish": "npm run build && npm publish dist/icons/"
+    "auto-publish": "npm run build && npm publish --access=public dist/icons/"
   },
   "devDependencies": {
     "cpx": "^1.5.0",
