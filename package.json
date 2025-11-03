@@ -4,6 +4,7 @@
   "author": "BiiT Sourcing Solutions",
   "type": "module",
   "sideEffects": false,
+  "license": "AGPLv3",
   "scripts": {
     "clean": "npx rimraf dist",
     "dev": "npm run clean && npm run transform-icons && vite",
