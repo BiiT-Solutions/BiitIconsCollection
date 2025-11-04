@@ -15,6 +15,8 @@ jobs:
       id-token: write
     steps:
       - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
       # Setup .npmrc file to publish to npm
       - name: Use Node.js
         uses: actions/setup-node@v4
@@ -32,6 +34,10 @@ jobs:
           git config user.name $GITHUB_ACTOR
           git config user.email ${GITHUB_ACTOR}-actions@github.com
           npm version patch --force -m "Version: %s"
-          git remote add gh-origin https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
-          git push gh-origin HEAD:master --tags
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
 
