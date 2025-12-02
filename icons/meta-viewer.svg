@@ -5,17 +5,17 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <path
      d="M 55,35 C 55,46.045741 46.045741,55 35,55 23.954259,55 15.000001,46.045742 15.000001,35 15.000001,23.954368 23.954259,15 35,15 c 11.045741,0 20,8.954368 20,20 z"
-     fill="#262626"
+     fill="currentColor"
      stroke="#262626"
      stroke-width="2.94118"
      stroke-miterlimit="1.5"
      stroke-linecap="round"
      stroke-linejoin="round"
      id="path4"
-     style="stroke:#262626;stroke-width:0;stroke-dasharray:none;stroke-opacity:1" />
+     style="stroke:currentColor;stroke-width:0;stroke-dasharray:none;stroke-opacity:1" />
   <path
      d="m 100,35 c 0,11.045741 -8.955141,20 -20.000552,20 -11.045411,0 -19.999447,-8.954258 -19.999447,-20 0,-11.045632 8.954036,-20 19.999447,-20 C 91.044859,15 100,23.954368 100,35 Z"
-     fill="#f20d5e"
+     fill="currentColor"
      stroke="#f20d5e"
      stroke-width="2.94118"
      stroke-miterlimit="1.5"
@@ -25,7 +25,7 @@
      style="stroke-width:0;stroke-dasharray:none" />
   <path
      d="m 54.999999,80 c 0,11.045742 -8.954258,20 -19.999999,20 -11.045742,0 -20,-8.954258 -20,-20 0,-11.045632 8.954258,-20 20,-20 11.045741,0 20,8.954368 19.999999,20 z"
-     fill="#262626"
+     fill="currentColor"
      stroke="#262626"
      stroke-width="2.94118"
      stroke-miterlimit="1.5"
@@ -35,12 +35,12 @@
      style="stroke-width:0;stroke-dasharray:none" />
   <path
      d="m 99.999999,80 c 0,11.045742 -8.95514,20 -20.000551,20 -11.04541,0 -19.999447,-8.954258 -19.999447,-20 0,-11.045632 8.954037,-20 19.999447,-20 11.045411,0 20.000551,8.954368 20.000551,20 z"
-     fill="#f20d5e"
+     fill="currentColor"
      stroke="#f20d5e"
      stroke-width="2.94118"
      stroke-miterlimit="1.5"
      stroke-linecap="round"
      stroke-linejoin="round"
      id="path8-5"
-     style="fill:#262626;fill-opacity:1;stroke:#262626;stroke-width:0;stroke-dasharray:none;stroke-opacity:1" />
+     style="fill:currentColor;fill-opacity:1;stroke:currentColor;stroke-width:0;stroke-dasharray:none;stroke-opacity:1" />
 </svg>

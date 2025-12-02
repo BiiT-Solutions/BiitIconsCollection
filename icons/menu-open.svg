@@ -35,7 +35,7 @@
                 <g
    transform="rotate(100.79998,489.64728,1541.3032)"
    id="g506">
-                    
+
                 </g>
 
                 <g
@@ -43,7 +43,7 @@
    id="g510">
                     <path
    d="m 445.389,913.119 h 398.587 l 11.854,49.378 H 457.244 Z"
-   style="fill:#f20d5e"
+   style="fill:currentColor"
    id="path508" />
 
                 </g>
@@ -68,7 +68,7 @@
    id="g506-5">
                     <path
    d="m -633.05112,730.61287 -9.35435,-48.92488 186.70322,-131.14236 44.56091,233.08378 z"
-   style="fill:#f20d5e"
+   style="fill:currentColor"
    id="path504-3" />
 
                 </g>
@@ -76,7 +76,7 @@
                 <g
    transform="translate(873.583,-38.5703)"
    id="g510-5">
-                    
+
                 </g>
 
             </g>

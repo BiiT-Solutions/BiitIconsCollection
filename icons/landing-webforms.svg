@@ -6,101 +6,101 @@
        fill-rule="evenodd"
        clip-rule="evenodd"
        d="m 76.8525,88.7444 7.6134,-0.0147 0.0385,-19.864 -7.6134,0.0148 z"
-       fill="#262626"
+       fill="currentColor"
        id="path2"
        clip-path="url(#clipPath1280)" />
     <path
        fill-rule="evenodd"
        clip-rule="evenodd"
        d="m 63.2529,88.7366 7.6134,-0.0147 0.0385,-19.864 -7.6134,0.0147 z"
-       fill="#262626"
+       fill="currentColor"
        id="path4"
        clip-path="url(#clipPath1274)" />
     <path
        fill-rule="evenodd"
        clip-rule="evenodd"
        d="m 83.7984,75.7878 0.0147,-7.6133 -19.8639,0.0384 -0.0148,7.6134 z"
-       fill="#262626"
+       fill="currentColor"
        id="path6"
        clip-path="url(#clipPath1268)" />
     <path
        fill-rule="evenodd"
        clip-rule="evenodd"
        d="m 83.8082,89.3894 0.0147,-7.6134 -19.864,0.0385 -0.0147,7.6134 z"
-       fill="#262626"
+       fill="currentColor"
        id="path8"
        clip-path="url(#clipPath1262)" />
     <path
        fill-rule="evenodd"
        clip-rule="evenodd"
        d="m 76.8701,124.057 7.6134,-0.015 0.0385,-19.864 -7.6134,0.015 z"
-       fill="#262626"
+       fill="currentColor"
        id="path10"
        clip-path="url(#clipPath1256)" />
     <path
        fill-rule="evenodd"
        clip-rule="evenodd"
        d="m 63.2354,124.084 7.6133,-0.014 0.0385,-19.864 -7.6134,0.014 z"
-       fill="#262626"
+       fill="currentColor"
        id="path12"
        clip-path="url(#clipPath1250)" />
     <path
        fill-rule="evenodd"
        clip-rule="evenodd"
        d="m 83.816,111.1 0.0147,-7.613 -19.864,0.038 -0.0147,7.614 z"
-       fill="#262626"
+       fill="currentColor"
        id="path14"
        clip-path="url(#clipPath1244)" />
     <path
        fill-rule="evenodd"
        clip-rule="evenodd"
        d="m 83.7906,124.737 0.0147,-7.613 -19.8639,0.038 -0.0148,7.614 z"
-       fill="#262626"
+       fill="currentColor"
        id="path16"
        clip-path="url(#clipPath1238)" />
     <path
        fill-rule="evenodd"
        clip-rule="evenodd"
        d="m 76.8525,159.405 7.6134,-0.015 0.0385,-19.864 -7.6134,0.015 z"
-       fill="#262626"
+       fill="currentColor"
        id="path18"
        clip-path="url(#clipPath1232)" />
     <path
        fill-rule="evenodd"
        clip-rule="evenodd"
        d="m 63.2529,159.397 7.6134,-0.015 0.0385,-19.864 -7.6134,0.015 z"
-       fill="#262626"
+       fill="currentColor"
        id="path20"
        clip-path="url(#clipPath1226)" />
     <path
        fill-rule="evenodd"
        clip-rule="evenodd"
        d="m 83.7984,146.448 0.0147,-7.613 -19.8639,0.038 -0.0148,7.613 z"
-       fill="#262626"
+       fill="currentColor"
        id="path22"
        clip-path="url(#clipPath1220)" />
     <path
        fill-rule="evenodd"
        clip-rule="evenodd"
        d="m 83.8082,160.05 0.0147,-7.614 -19.864,0.039 -0.0147,7.613 z"
-       fill="#262626"
+       fill="currentColor"
        id="path24"
        clip-path="url(#clipPath1214)" />
     <path
        fill-rule="evenodd"
        clip-rule="evenodd"
        d="M 183,50.9735 H 40.7611 L 37,42 h 142.239 z"
-       fill="#f20d5e"
+       fill="currentColor"
        id="path26"
        clip-path="url(#clipPath1208)" />
     <path
        id="path1588"
        clip-path="url(#clipPath1202)"
-       style="fill:#f20d5e;fill-opacity:1"
+       style="fill:currentColor;fill-opacity:1"
        d="M 94.150391 74.068359 L 97.912109 83.091797 L 142.33008 83.091797 L 152.76172 74.068359 L 94.150391 74.068359 z M 94.150391 108.19727 L 97.912109 117.17188 L 108.26953 117.17188 L 112.60156 108.81055 L 113.31055 108.19727 L 94.150391 108.19727 z M 160.625 108.19727 L 150.25 117.17188 L 173.37891 117.17188 L 169.61719 108.19727 L 160.625 108.19727 z M 94.150391 144.28711 L 97.912109 153.26172 L 173.37891 153.26172 L 169.61719 144.28711 L 94.365234 144.28711 L 94.193359 144.3418 L 94.222656 144.28711 L 94.150391 144.28711 z " />
     <path
        id="rect324-0"
-       style="fill:#262626;fill-opacity:1;stroke-width:1.00157;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       style="fill:currentColor;fill-opacity:1;stroke-width:1.00157;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
        d="m 120.4123,111.53251 46.84506,-40.595592 c 1.63618,0.641751 10.72262,10.986412 10.91763,12.598267 l -46.84505,40.595595 -21.95001,7.99203 z" />
   </g>
 </svg>

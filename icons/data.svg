@@ -2,6 +2,6 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 144 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
     <g transform="matrix(1,0,0,1,-13193.1,-26.7246)">
-        <path d="M13332.1,31.241L13332.1,26.725L13197.6,26.725L13197.6,31.241L13193.1,31.241L13193.1,165.763L13197.6,165.763L13197.6,170.279L13332.1,170.279L13332.1,165.763L13336.6,165.763L13336.6,31.241L13332.1,31.241ZM13244.6,78.238L13244.6,118.766L13285.1,118.766L13285.1,78.238L13244.6,78.238Z" style="fill:rgb(242,13,94);"/>
+        <path d="M13332.1,31.241L13332.1,26.725L13197.6,26.725L13197.6,31.241L13193.1,31.241L13193.1,165.763L13197.6,165.763L13197.6,170.279L13332.1,170.279L13332.1,165.763L13336.6,165.763L13336.6,31.241L13332.1,31.241ZM13244.6,78.238L13244.6,118.766L13285.1,118.766L13285.1,78.238L13244.6,78.238Z" style="fill:currentColor;"/>
     </g>
 </svg>
