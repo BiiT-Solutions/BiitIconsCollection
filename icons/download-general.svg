@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 47 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
-    <g transform="matrix(1,0,0,1,5.55033,6.28404)">
-        <g transform="matrix(1.34615,0,0,1.34615,-2.52404,-5.06727)">
-            <path d="M1.875,29.25L27.875,29.25" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
-            <path d="M14.68,26.25L14.68,4.25" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.5px;"/>
-            <path d="M2.875,30.25L2.875,22.25" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
-            <path d="M16.358,26.313L22.672,12.866L20.235,12.866L14.714,24.63L8.875,12.866L6.375,12.866L13.004,26.313L16.358,26.313Z" style="fill-rule:nonzero;"/>
-            <path d="M26.875,30.25L26.875,22.25" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+<svg
+   width="100%"
+   height="100%"
+   viewBox="0 0 47 48"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;"
+   id="svg570"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs574" />
+    <g
+   transform="matrix(1,0,0,1,5.55033,6.28404)"
+   id="g568">
+        <g
+   transform="matrix(1.34615,0,0,1.34615,-2.52404,-5.06727)"
+   id="g566">
+            <path
+   id="path556"
+   style="clip-rule:nonzero;fill:#000000;fill-rule:nonzero;-inkscape-stroke:none"
+   d="M 13.430285 4.2496973 L 13.430285 22.043498 L 8.8744689 12.866575 L 6.3745733 12.866575 L 13.003722 26.313488 L 16.358196 26.313488 L 22.672499 12.866575 L 20.234992 12.866575 L 15.930181 22.039145 L 15.930181 4.2496973 L 13.430285 4.2496973 z M 1.8753417 22.249525 L 1.8753417 30.249772 L 3.8746778 30.249772 L 25.874629 30.249772 L 27.875416 30.249772 L 27.875416 28.250436 L 27.875416 22.249525 L 25.874629 22.249525 L 25.874629 28.250436 L 3.8746778 28.250436 L 3.8746778 22.249525 L 1.8753417 22.249525 z " />
+
+
+
+
         </g>
     </g>
 </svg>
