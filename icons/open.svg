@@ -1,15 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,-5130.72,-23096.4)">
-        <g transform="matrix(1,0,0,1,3854.11,22832)">
-            <g transform="matrix(1,0,0,1,-3854.11,-22832)">
-                <path d="M5517.68,23539.9L5187.23,23539.9L5187.23,23209.5L5352.46,23209.5L5352.46,23153L5130.72,23153C5130.72,23153 5130.72,23596.4 5130.72,23596.4L5574.2,23596.4L5574.2,23374.7L5517.68,23374.7L5517.68,23539.9Z" />
+<svg
+   width="100%"
+   height="100%"
+   viewBox="0 0 500 500"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+   id="svg417"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs421" />
+    <g
+   transform="matrix(1,0,0,1,-5130.72,-23096.4)"
+   id="g415">
+        <g
+   transform="matrix(1,0,0,1,3854.11,22832)"
+   id="g407">
+            <g
+   transform="matrix(1,0,0,1,-3854.11,-22832)"
+   id="g405">
+                <path
+   d="M5517.68,23539.9L5187.23,23539.9L5187.23,23209.5L5352.46,23209.5L5352.46,23153L5130.72,23153C5130.72,23153 5130.72,23596.4 5130.72,23596.4L5574.2,23596.4L5574.2,23374.7L5517.68,23374.7L5517.68,23539.9Z"
+   id="path403" />
             </g>
         </g>
-        <g transform="matrix(1,0,0,1,3854.11,22832)">
-            <g transform="matrix(1,0,0,1,-3854.11,-22832)">
-                <path d="M5630.72,23318.2L5630.72,23096.4L5408.97,23096.4L5408.97,23153L5533.18,23153L5333.5,23352.6L5373.47,23392.6L5574.2,23191.9L5574.2,23318.2L5630.72,23318.2Z" />
+        <g
+   transform="matrix(1,0,0,1,3854.11,22832)"
+   id="g413">
+            <g
+   transform="matrix(1,0,0,1,-3854.11,-22832)"
+   id="g411">
+                <path
+   d="m 5630.72,23318.2 v -221.8 h -221.75 l 56.558,56.6 h 67.652 l -199.68,199.6 39.97,40 200.73,-200.7 v 69.772 z"
+   id="path409" />
             </g>
         </g>
     </g>
