@@ -2,11 +2,15 @@
 <svg
    viewBox="0 0 220 195"
    fill="none"
+   version="1.1"
+   id="svg10"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
   <g
      id="g864"
-     transform="matrix(0.58970388,0.15147287,-0.15147287,0.58970388,48.295502,-6.9492039)"
+     transform="matrix(0.8426643,0.21644894,-0.21644894,0.8426643,23.571829,-51.753919)"
      style="fill-opacity:1">
     <g
        id="g862"
@@ -29,24 +33,24 @@
     </g>
   </g>
   <circle
-     style="fill-opacity:1;stroke-width:0"
+     style="fill-opacity:1;stroke-width:0;stroke:#000000;fill:#000000"
      id="path2308"
-     cx="72.884392"
-     cy="59.147476"
-     r="6.5849209"
+     cx="49.731956"
+     cy="55.315723"
+     r="9.4096003"
      transform="rotate(14.40571)" />
   <circle
-     style="fill-opacity:1;stroke-width:4.4865;stroke-dasharray:none;stroke-opacity:1"
+     style="fill-opacity:1;stroke-width:6.41103;stroke-dasharray:none;stroke-opacity:1;stroke:#000000"
      id="path2310"
-     cx="61.266685"
-     cy="36.133453"
-     r="7.8043504"
+     cx="33.130695"
+     cy="22.429562"
+     r="11.152119"
      transform="rotate(14.40571)" />
   <circle
-     style="fill-opacity:1;stroke-width:0"
+     style="fill-opacity:1;stroke-width:0;stroke:#000000;fill:#000000"
      id="path2312"
-     cx="85.25634"
-     cy="35.867004"
-     r="5.1216049"
+     cx="67.410995"
+     cy="22.048817"
+     r="7.3185778"
      transform="rotate(14.40571)" />
 </svg>
