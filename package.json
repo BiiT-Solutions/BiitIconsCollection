@@ -12,11 +12,10 @@
     "build:lib": "npm run transform-icons",
     "preview": "npm run build && vite preview",
     "transform-icons": "svg-to-ts-files",
-    "copy-library-assets": "cpx package.json dist/icons && cpx README.md dist/icons",
+    "copy-library-assets": "node -e \"const fs=require('node:fs'); fs.mkdirSync('dist/icons',{recursive:true}); fs.copyFileSync('package.json','dist/icons/package.json'); fs.copyFileSync('README.md','dist/icons/README.md');\"",
     "auto-publish": "npm run build && npm publish --access=public dist/icons/"
   },
   "devDependencies": {
-    "cpx": "^1.5.0",
     "rimraf": "^6.1.3",
     "svg-to-ts": "^12.0.0",
     "vite": "^8.0.14"
