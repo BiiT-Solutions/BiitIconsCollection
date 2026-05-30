@@ -34,7 +34,7 @@ Use `npm run build` to compile the project. ./dist directory will be created.
 
 ## Publishing
 
-To publish the dist folder run `npm publish ./dist`
+To publish the dist folder run `npm publish ./dist/icons`
 
 A script facility has been added to make publishing easy. Whether running `npm run auto-publish`. It automatically will compile the project and publish dist folder.
 
